@@ -1,5 +1,18 @@
+body {
+  font-size: 16px;
+  background: url("/images/map.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
-.jumbotron {
-  color: #fff;
-  background-image: url(../images/bamboo-med.jpg);
+.section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+p,li {
+  font-size: 16px;
 }
