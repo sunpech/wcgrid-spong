@@ -2,6 +2,8 @@
 
 A simple [rack](https://rack.github.io/) app for my team page.
 
+10/3/2025 - Project not actively maintained and will be archived.
+
 ## Links
 
 * [World Community grid](https://www.worldcommunitygrid.org)
